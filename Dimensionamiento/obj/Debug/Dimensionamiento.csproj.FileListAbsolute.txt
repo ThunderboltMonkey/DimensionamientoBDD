@@ -1,0 +1,6 @@
+c:\users\monkey\documents\visual studio 2013\Projects\Dimensionamiento\Dimensionamiento\bin\Debug\Dimensionamiento.exe.config
+c:\users\monkey\documents\visual studio 2013\Projects\Dimensionamiento\Dimensionamiento\bin\Debug\Dimensionamiento.exe
+c:\users\monkey\documents\visual studio 2013\Projects\Dimensionamiento\Dimensionamiento\bin\Debug\Dimensionamiento.pdb
+c:\users\monkey\documents\visual studio 2013\Projects\Dimensionamiento\Dimensionamiento\obj\Debug\Dimensionamiento.csprojResolveAssemblyReference.cache
+c:\users\monkey\documents\visual studio 2013\Projects\Dimensionamiento\Dimensionamiento\obj\Debug\Dimensionamiento.exe
+c:\users\monkey\documents\visual studio 2013\Projects\Dimensionamiento\Dimensionamiento\obj\Debug\Dimensionamiento.pdb
